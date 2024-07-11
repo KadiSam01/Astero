@@ -1,6 +1,6 @@
 # Astero
 
-A brief description of what this project does and who it's for.
+It is an asteroid game where you have to avoid asteroids. 
 
 ## Table of Contents
 
